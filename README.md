@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@nathanmkaya-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/nathanmkaya) 
-[![Linkedin Badge](https://img.shields.io/badge/-Nathanael%20Mkaya-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanmkaya/)](https://www.linkedin.com/in/nathanmkaya/)
-[![Gmail Badge](https://img.shields.io/badge/-nathanmkaya@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:nathanmkaya@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@nathanmkaya-2997B7?style=flat-square&labelColor=2997B7&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/nathanmkaya) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nathanael%20Mkaya-2997B7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanmkaya/)](https://www.linkedin.com/in/nathanmkaya/)
+[![Gmail Badge](https://img.shields.io/badge/-nathanmkaya@gmail.com-2997B7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:nathanmkaya@gmail.com)
 
 
 
