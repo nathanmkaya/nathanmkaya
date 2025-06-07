@@ -38,42 +38,46 @@ I'm a passionate software engineer based in Berlin, working at [thermondo](https
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🎯 Featured Projects
+*Ordered by most recent activity*
 
-### 🤖 [android-version-code-update](https://github.com/nathanmkaya/android-version-code-update)
-A GitHub Action that automatically updates Android app version codes using the Google Play Developer API. Perfect for CI/CD pipelines!
+### 📦 [GithubPackageRepositoryDemo](https://github.com/nathanmkaya/GithubPackageRepositoryDemo) **(Latest - 2022)**
+A modern Android project demonstrating GitHub Package Repository integration with library publishing and consumption.
+- **Tech**: Kotlin, Android, GitHub Packages, Gradle
+- **Latest commit**: December 2022
+- **Highlights**: Package repository setup, library distribution
+
+### 📱 [BlogFollower](https://github.com/nathanmkaya/BlogFollower) **(2022)**
+An Android application with comprehensive CI/CD setup, featuring Travis CI integration and automated dependency management.
+- **Tech**: Java, Android, Travis CI, Renovate
+- **Features**: Automated testing, dependency updates, CI/CD pipeline
+- **Latest activity**: Renovate configuration and maintenance
+
+### 🤖 [android-version-code-update](https://github.com/nathanmkaya/android-version-code-update) **(2020)**
+A popular GitHub Action that automatically updates Android app version codes using the Google Play Developer API. Perfect for CI/CD pipelines!
 - **Tech**: TypeScript, GitHub Actions
 - **Stars**: ⭐ 11 | **Forks**: 🍴 6
+- **Impact**: Used by developers worldwide for automated version management
 
-### 📦 [GithubPackageRepositoryDemo](https://github.com/nathanmkaya/GithubPackageRepositoryDemo)
-A modern Android project demonstrating GitHub Package Repository integration with library publishing and consumption.
-- **Tech**: Kotlin, Android, GitHub Packages
-- **Year**: 2022
-
-### 🛠️ [vrsncode](https://github.com/nathanmkaya/vrsncode)
-A command-line tool written in Go for fetching and updating Android version codes from the Google Play Store.
-- **Tech**: Go, Google Play Developer API
-- **Features**: Fetch current version codes, increment versions, CLI interface
-
-### 🌐 [spring-retrofit-example](https://github.com/nathanmkaya/spring-retrofit-example)
-A comprehensive example integrating Spring Boot with Retrofit for HTTP client operations, showcasing modern JVM development practices.
-- **Tech**: Spring Boot, Retrofit, RxJava, Kotlin
-- **Features**: REST API integration, reactive programming patterns
-
-### 💰 [walletAPI](https://github.com/nathanmkaya/walletAPI)
-A clean, well-tested REST API for wallet operations built with Go and PostgreSQL.
+### 💰 [walletAPI](https://github.com/nathanmkaya/walletAPI) **(2019)**
+A clean, well-tested REST API for wallet operations built with Go and PostgreSQL, showcasing modern backend development practices.
 - **Tech**: Go, PostgreSQL, Clean Architecture
 - **Features**: Deposits, withdrawals, balance inquiries, transaction history
-- **Testing**: Comprehensive unit tests with coverage tracking
+- **Quality**: Comprehensive unit tests, CI/CD with GitHub Actions
 
-### 📱 [IkoKaziKE](https://github.com/nathanmkaya/IkoKaziKE)
-A modern Android application built with Kotlin and Gradle KTS, showcasing contemporary Android development practices.
-- **Tech**: Kotlin, Android, Gradle KTS
-- **Features**: Modern build configuration, clean architecture
+### 🛠️ [vrsncode](https://github.com/nathanmkaya/vrsncode) **(2020)**
+A command-line tool written in Go for fetching and updating Android version codes from the Google Play Store.
+- **Tech**: Go, Google Play Developer API
+- **Features**: CLI interface, version code management, Play Store integration
+
+### 🌐 [spring-retrofit-example](https://github.com/nathanmkaya/spring-retrofit-example) **(2017)**
+A comprehensive example integrating Spring Boot with Retrofit for HTTP client operations, demonstrating modern JVM development patterns.
+- **Tech**: Spring Boot, Retrofit, RxJava, Kotlin
+- **Purpose**: Educational resource for Spring + Retrofit integration
 
 ### 🧪 [playground](https://github.com/nathanmkaya/playground)
-My experimental repository where I explore new technologies and maintain coding consistency. A collection of learning projects and tech experiments.
+My experimental repository for exploring new technologies and maintaining coding consistency. A collection of learning projects and daily coding exercises.
 - **Tech**: Various (Flutter, Dart, and more)
-- **Purpose**: Learning, experimentation, daily coding practice
+- **Goal**: 365 days of coding activity, continuous learning
 
 ## 📊 GitHub Stats
 
