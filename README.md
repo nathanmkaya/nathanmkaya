@@ -44,10 +44,20 @@ A GitHub Action that automatically updates Android app version codes using the G
 - **Tech**: TypeScript, GitHub Actions
 - **Stars**: ⭐ 11 | **Forks**: 🍴 6
 
+### 📦 [GithubPackageRepositoryDemo](https://github.com/nathanmkaya/GithubPackageRepositoryDemo)
+A modern Android project demonstrating GitHub Package Repository integration with library publishing and consumption.
+- **Tech**: Kotlin, Android, GitHub Packages
+- **Year**: 2022
+
 ### 🛠️ [vrsncode](https://github.com/nathanmkaya/vrsncode)
 A command-line tool written in Go for fetching and updating Android version codes from the Google Play Store.
 - **Tech**: Go, Google Play Developer API
 - **Features**: Fetch current version codes, increment versions, CLI interface
+
+### 🌐 [spring-retrofit-example](https://github.com/nathanmkaya/spring-retrofit-example)
+A comprehensive example integrating Spring Boot with Retrofit for HTTP client operations, showcasing modern JVM development practices.
+- **Tech**: Spring Boot, Retrofit, RxJava, Kotlin
+- **Features**: REST API integration, reactive programming patterns
 
 ### 💰 [walletAPI](https://github.com/nathanmkaya/walletAPI)
 A clean, well-tested REST API for wallet operations built with Go and PostgreSQL.
@@ -55,9 +65,15 @@ A clean, well-tested REST API for wallet operations built with Go and PostgreSQL
 - **Features**: Deposits, withdrawals, balance inquiries, transaction history
 - **Testing**: Comprehensive unit tests with coverage tracking
 
-### 📱 [mpesa-kotlin](https://github.com/nathanmkaya/mpesa-kotlin)
-Kotlin wrapper for the MPesa Daraja API, making mobile payments integration easier for Android developers.
-- **Tech**: Kotlin, Retrofit, RxJava
+### 📱 [IkoKaziKE](https://github.com/nathanmkaya/IkoKaziKE)
+A modern Android application built with Kotlin and Gradle KTS, showcasing contemporary Android development practices.
+- **Tech**: Kotlin, Android, Gradle KTS
+- **Features**: Modern build configuration, clean architecture
+
+### 🧪 [playground](https://github.com/nathanmkaya/playground)
+My experimental repository where I explore new technologies and maintain coding consistency. A collection of learning projects and tech experiments.
+- **Tech**: Various (Flutter, Dart, and more)
+- **Purpose**: Learning, experimentation, daily coding practice
 
 ## 📊 GitHub Stats
 
